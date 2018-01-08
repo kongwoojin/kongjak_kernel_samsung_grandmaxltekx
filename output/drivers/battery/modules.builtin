@@ -1,0 +1,4 @@
+kernel/drivers/battery/sec_battery.ko
+kernel/drivers/battery/rt5033_fuelgauge.ko
+kernel/drivers/battery/sec_fuelgauge.ko
+kernel/drivers/battery/rt5033_charger.ko

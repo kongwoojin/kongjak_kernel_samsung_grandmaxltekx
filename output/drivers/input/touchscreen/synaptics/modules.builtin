@@ -1,0 +1,8 @@
+kernel/drivers/input/touchscreen/synaptics/synaptics_i2c_rmi.ko
+kernel/drivers/input/touchscreen/synaptics/rmi_dev.ko
+kernel/drivers/input/touchscreen/synaptics/rmi_f54.ko
+kernel/drivers/input/touchscreen/synaptics/rmi_fw_update.ko
+kernel/drivers/input/touchscreen/synaptics/rmi_db.ko
+kernel/drivers/input/touchscreen/synaptics/rmi_guest.ko
+kernel/drivers/input/touchscreen/synaptics/Multiverse/GMvBrane.ko
+kernel/drivers/input/touchscreen/synaptics/Multiverse/GMvSystem.ko
