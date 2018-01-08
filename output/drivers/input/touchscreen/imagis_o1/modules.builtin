@@ -1,7 +1,0 @@
-kernel/drivers/input/touchscreen/imagis_o1/ist30xx.ko
-kernel/drivers/input/touchscreen/imagis_o1/ist30xx_sec.ko
-kernel/drivers/input/touchscreen/imagis_o1/ist30xx_misc.ko
-kernel/drivers/input/touchscreen/imagis_o1/ist30xx_sys.ko
-kernel/drivers/input/touchscreen/imagis_o1/ist30xx_tracking.ko
-kernel/drivers/input/touchscreen/imagis_o1/ist30xx_update.ko
-kernel/drivers/input/touchscreen/imagis_o1/ist30xx_cmcs.ko

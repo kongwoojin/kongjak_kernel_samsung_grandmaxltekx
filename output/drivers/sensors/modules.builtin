@@ -1,6 +1,0 @@
-kernel/drivers/sensors/k2hh.ko
-kernel/drivers/sensors/ak09911c.ko
-kernel/drivers/sensors/taos_tmd3782.ko
-kernel/drivers/sensors/cm36686.ko
-kernel/drivers/sensors/k303c_acc.ko
-kernel/drivers/sensors/k303c_mag.ko
